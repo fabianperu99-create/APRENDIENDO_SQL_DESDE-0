@@ -33,10 +33,12 @@ SELECT * FROM Customers;
 
 # 03. Comando SELECT
 
+El `SELECT´ sirve para consultar y traer datos de una tabla.
+
 ## Sintaxis
 ``sql
-SELECT column1, column2,...
-FROM table_name;
+SELECT columna1, columna2
+FROM nombre_tabla;
 ![Evidencia](l.jpeg)
 
 
